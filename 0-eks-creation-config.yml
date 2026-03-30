@@ -6,7 +6,7 @@ metadata:
   region: ap-south-1
   version: "1.33"
   tags:
-    owner: HarishNShetty
+    owner: KrishnaDevops
     bu: hns
     environment: prod
     project: efk-logging
