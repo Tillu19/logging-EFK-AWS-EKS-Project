@@ -1,14 +1,5 @@
-# Kubernetes Logging with EFK: Fluent Bit, Elasticsearch & Kibana on EKS
 
-## how to set up end-to-end Kubernetes log monitoring using the EFK stack on Amazon EKS.
-In this video, we’ll deploy Fluent Bit, Elasticsearch, and Kibana to collect, store, and visualize cluster logs effectively.
 
-## For more projects, check out  
-[https://harishnshetty.github.io/projects.html](https://harishnshetty.github.io/projects.html)
-
-[![Video Tutorial](https://github.com/harishnshetty/image-data-project/blob/ece2a6c999a2e5add18510042c95fd6311331545/efk%20k8s.jpg)](https://youtu.be/gkWa_KmtKv8)
-
-## 🔍 Overview
 
 ### 1️⃣ Elasticsearch (E)
 - **Purpose:** Stores and indexes logs for fast search and analytics.
