@@ -21,7 +21,7 @@ iam:
 
 managedNodeGroups:
   - name: Worker-Node-Group
-    instanceType: t3.large
+    instanceType: m7i-flex.large
     minSize: 3
     maxSize: 5
     privateNetworking: true
